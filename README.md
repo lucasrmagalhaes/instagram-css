@@ -1,4 +1,4 @@
-[![INSTAGRAM](https://i.imgur.com/rqn9yJc.jpg "Instagram")](https://lucasrmagalhaes.github.io/instagram-css/)
+[![Instagram CSS](https://github.com/lucasrmagalhaes/instagram-css/blob/master/img/capa.jpg "Instagram CSS")](https://lucasrmagalhaes.github.io/instagram-css/)
 - Recriando a interface de login do Instagram com CSS e HTML.
 ------------
 
